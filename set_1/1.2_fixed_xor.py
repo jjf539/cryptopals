@@ -1,3 +1,5 @@
+#Exclusive or or exclusive disjunction is a logical operation that outputs true only when inputs differ (one is true, the other is false).
+
 def fixed_xor(str1,str2):
 
   #convert hex strings to their integer equivalent
